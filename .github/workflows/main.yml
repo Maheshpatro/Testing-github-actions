@@ -60,6 +60,7 @@ jobs:
          df
          echo 10. What environment variables are availab;e?
          env
+         echo
 
 
 
