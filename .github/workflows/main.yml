@@ -58,9 +58,9 @@ jobs:
          whoami
          echo 9. How is the disc laid out?
          df
-         echo 10. What environment variables are availab;e?
+         echo 10. What environment variables are available?
          env
-         echo
+       
 
 
 
