@@ -42,8 +42,8 @@ jobs:
       - name: Step 5 - Log build tool versions
         run: | 
           git --version
-          ant --verson
-          gradle -- version
+          ant -version
+          gradle --version
           
       - name: Step 6 - Log the post-build disc space
         run: df
